@@ -1,0 +1,23 @@
+Pairwise
+
+u	p	o	j	
+ 0: ['u', 'p', 'o', 'j']
+ 1: ['U', 'P', 'O', 'j']
+ 2: ['U', 'p', 'O', 'J']
+ 3: ['u', 'P', 'o', 'J']
+ 4: ['u', 'P', 'O', 'J']
+ 5: ['U', 'P', 'o', 'J']
+
+
+
+c	
+
+veeru	parini	o	j	
+ 0: ['veeru', 'PARINI', 'o', 'j']
+ 1: ['VEERU', 'parini', 'O', 'j']
+ 2: ['VEERU', 'PARINI', 'O', 'J']
+ 3: ['veeru', 'parini', 'o', 'J']
+ 4: ['veeru', 'parini', 'O', 'J']
+ 5: ['VEERU', 'parini', 'o', 'J']
+
+
