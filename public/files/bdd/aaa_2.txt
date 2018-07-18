@@ -1,6 +1,0 @@
-SCENARIO:
-META-DATA: {'description': 'Scenario #0', 'key': 'Scenario #0.testdata', 'scenarioNumber': '0'}
-	Given at start
-	When ${p}
-	Then zxcvbnm,.
-END
